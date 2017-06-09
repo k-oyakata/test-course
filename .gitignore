@@ -1,0 +1,14 @@
+admin_tools
+backup
+.bash_history
+.config
+.git
+.gitconfig
+.hub-config
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.netrc
+.ssh
+.viminfo
