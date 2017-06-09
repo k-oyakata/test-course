@@ -1,4 +1,5 @@
-admin_tools
+additional
+additional2
 backup
 .bash_history
 .config
@@ -9,6 +10,6 @@ backup
 .ipython
 .jupyter
 .local
-.netrc
 .ssh
 .viminfo
+admin_tools
