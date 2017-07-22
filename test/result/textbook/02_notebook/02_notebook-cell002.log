@@ -1,0 +1,16 @@
+ls -l
+----
+path: /home/ksasaki11b819/textbook/.log/20170721/20170721-122745-0224.log
+start time: 2017-07-21 12:27:45(UTC)
+----
+total 16
+-rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1117 Jul 21 09:52 01_notebook.ipynb
+-rw-r--r-- 1 ksasaki11b819 ksasaki11b819 2269 Jul 21 12:27 01_notebook-out.ipynb
+-rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1117 Jul 21 09:52 02_notebook.ipynb
+-rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1117 Jul 21 12:27 02_notebook-out.ipynb
+
+----
+end time: 2017-07-21 12:27:45(UTC)
+output size: 11 bytes
+0 chunks with matched keywords or errors
+----
