@@ -1,0 +1,10 @@
+Commit: test-20170723-164808
+
+== /textbook/01_notebook.ipynb ==
+EXPECTED-TEXT-FILE: test/correct/textbook/01_notebook/01_notebook-cell001.log
+ACTUAL-TEXT-FILE: test/result/textbook/01_notebook/01_notebook-cell001.log
+Added:
+> dddddd
+---
+Rows Similarity Ratio: 0.96
+
