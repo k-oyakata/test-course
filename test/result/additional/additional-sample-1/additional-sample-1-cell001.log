@@ -1,7 +1,7 @@
 ps -ef
 ----
-path: /home/ksasaki11b819/additional/.log/20170726/20170726-151918-0689.log
-start time: 2017-07-26 15:19:18(UTC)
+path: /home/ksasaki11b819/additional/.log/20170726/20170726-152048-0049.log
+start time: 2017-07-26 15:20:47(UTC)
 ----
 UID        PID  PPID  C STIME TTY          TIME CMD
 root         1     0  0 Jul20 ?        00:00:14 tini -- sh /usr/local/bin/start-
@@ -9,7 +9,7 @@ root         5     1  0 Jul20 ?        00:00:00 sh /usr/local/bin/start-systemus
 root        14     5  0 Jul20 ?        00:00:00 sudo -E PATH=/opt/conda/bin:/opt
 ksasaki+    15    14  0 Jul20 ?        00:05:38 /opt/conda/bin/python /opt/conda
 ksasaki+    51    15  0 Jul20 pts/1    00:00:00 /bin/bash
-ksasaki+  2081    15  0 Jul21 ?        00:03:27 /opt/conda/bin/python -m lc_wrap
+ksasaki+  2081    15  0 Jul21 ?        00:03:28 /opt/conda/bin/python -m lc_wrap
 ksasaki+  2092  2081  0 Jul21 ?        00:01:19 /opt/conda/bin/python -m bash_ke
 ksasaki+  2104  2092  0 Jul21 pts/2    00:00:00 /bin/bash --rcfile /opt/conda/li
 ksasaki+  2108    15  0 Jul21 ?        00:03:29 /opt/conda/bin/python -m lc_wrap
@@ -18,15 +18,15 @@ ksasaki+  2131  2119  0 Jul21 pts/3    00:00:00 /bin/bash --rcfile /opt/conda/li
 ksasaki+  4110    15  0 Jul22 pts/5    00:00:00 /bin/bash
 ksasaki+  6143    15  0 10:47 ?        00:00:02 /opt/conda/bin/python -m bash_ke
 ksasaki+  6154  6143  0 10:47 pts/0    00:00:00 /bin/bash --rcfile /opt/conda/li
-ksasaki+  8455     0  0 15:18 ?        00:00:00 bash
-ksasaki+  8544  8455 35 15:19 ?        00:00:01 /opt/conda/bin/python /opt/conda
-ksasaki+  8549  8544 43 15:19 ?        00:00:01 /opt/conda/bin/python -m lc_wrap
-ksasaki+  8563  8549 58 15:19 ?        00:00:01 /opt/conda/bin/python -m bash_ke
-ksasaki+  8575  8563  7 15:19 pts/4    00:00:00 /bin/bash --rcfile /opt/conda/li
-ksasaki+  8580  8575  0 15:19 pts/4    00:00:00 ps -ef
+ksasaki+  8631     0  0 15:20 ?        00:00:00 bash
+ksasaki+  8720  8631 30 15:20 ?        00:00:01 /opt/conda/bin/python /opt/conda
+ksasaki+  8725  8720 32 15:20 ?        00:00:01 /opt/conda/bin/python -m lc_wrap
+ksasaki+  8739  8725 39 15:20 ?        00:00:01 /opt/conda/bin/python -m bash_ke
+ksasaki+  8751  8739  5 15:20 pts/4    00:00:00 /bin/bash --rcfile /opt/conda/li
+ksasaki+  8756  8751  0 15:20 pts/4    00:00:00 ps -ef
 
 ----
-end time: 2017-07-26 15:19:18(UTC)
+end time: 2017-07-26 15:20:48(UTC)
 output size: 12 bytes
 0 chunks with matched keywords or errors
 ----
