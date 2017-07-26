@@ -1,16 +1,15 @@
 ls -l
 ----
-path: /home/ksasaki11b819/textbook/.log/20170726/20170726-152035-0284.log
-start time: 2017-07-26 15:20:35(UTC)
+path: /home/ksasaki11b819/textbook/.log/20170726/20170726-152402-0489.log
+start time: 2017-07-26 15:24:02(UTC)
 ----
-total 16
--rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1270 Jul 26 15:18 01_notebook.ipynb
--rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1270 Jul 26 15:20 01_notebook-out.ipynb
--rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1270 Jul 26 15:18 02_notebook.ipynb
--rw-r--r-- 1 ksasaki11b819 ksasaki11b819 2422 Jul 26 15:19 02_notebook-out.ipynb
+total 12
+-rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1270 Jul 26 15:23 01_notebook.ipynb
+-rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1270 Jul 26 15:23 01_notebook-out.ipynb
+-rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1270 Jul 26 15:23 02_notebook.ipynb
 
 ----
-end time: 2017-07-26 15:20:35(UTC)
+end time: 2017-07-26 15:24:02(UTC)
 output size: 11 bytes
 0 chunks with matched keywords or errors
 ----
