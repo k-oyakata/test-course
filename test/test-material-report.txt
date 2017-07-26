@@ -1,4 +1,4 @@
-Commit: test-20170726-213924
+Commit: test-20170727-002449
 
 [/textbook/02_notebook.ipynb : cell002]
 ==============================
@@ -6,36 +6,36 @@ EXPECTED-TEXT-FILE: test-course/test/correct/textbook/02_notebook/02_notebook-ce
 ACTUAL-TEXT-FILE: test-course/test/result/textbook/02_notebook/02_notebook-cell002.log
 Modified:
 < path: /home/ksasaki11b819/textbook/.log/20170721/20170721-122745-0224.log
-> path: /home/ksasaki11b819/textbook/.log/20170726/20170726-123733-0325.log
+> path: /home/ksasaki11b819/textbook/.log/20170726/20170726-152408-0975.log
 Line Similarity Ratio: 0.93
 Considering these two lines to be identical.
 < start time: 2017-07-21 12:27:45(UTC)
-> start time: 2017-07-26 12:37:33(UTC)
-Line Similarity Ratio: 0.94
+> start time: 2017-07-26 15:24:08(UTC)
+Line Similarity Ratio: 0.91
 Considering these two lines to be identical.
 ---
 Modified:
 < -rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1117 Jul 21 09:52 01_notebook.ipynb
-> -rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1270 Jul 26 12:37 01_notebook.ipynb
+> -rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1270 Jul 26 15:23 01_notebook.ipynb
 Line Similarity Ratio: 0.98
 Considering these two lines to be identical.
 < -rw-r--r-- 1 ksasaki11b819 ksasaki11b819 2269 Jul 21 12:27 01_notebook-out.ipynb
-> -rw-r--r-- 1 ksasaki11b819 ksasaki11b819 2330 Jul 26 12:37 01_notebook-out.ipynb
+> -rw-r--r-- 1 ksasaki11b819 ksasaki11b819 2330 Jul 26 15:24 01_notebook-out.ipynb
 Line Similarity Ratio: 0.97
 Considering these two lines to be identical.
 < -rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1117 Jul 21 09:52 02_notebook.ipynb
-> -rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1270 Jul 26 12:37 02_notebook.ipynb
+> -rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1270 Jul 26 15:23 02_notebook.ipynb
 Line Similarity Ratio: 0.98
 Considering these two lines to be identical.
 < -rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1117 Jul 21 12:27 02_notebook-out.ipynb
-> -rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1270 Jul 26 12:37 02_notebook-out.ipynb
+> -rw-r--r-- 1 ksasaki11b819 ksasaki11b819 1270 Jul 26 15:24 02_notebook-out.ipynb
 Line Similarity Ratio: 0.98
 Considering these two lines to be identical.
 ---
 Modified:
 < end time: 2017-07-21 12:27:45(UTC)
-> end time: 2017-07-26 12:37:33(UTC)
-Line Similarity Ratio: 0.93
+> end time: 2017-07-26 15:24:09(UTC)
+Line Similarity Ratio: 0.91
 Considering these two lines to be identical.
 ---
 Rows Similarity Ratio: 1.00
@@ -45,18 +45,18 @@ EXPECTED-TEXT-FILE: test-course/test/correct/textbook/02_notebook/02_notebook-ce
 ACTUAL-TEXT-FILE: test-course/test/result/textbook/02_notebook/02_notebook-cell001.log
 Modified:
 < path: /home/ksasaki11b819/textbook/.log/20170721/20170721-122744-0962.log
-> path: /home/ksasaki11b819/textbook/.log/20170726/20170726-123733-0071.log
+> path: /home/ksasaki11b819/textbook/.log/20170726/20170726-152408-0717.log
 Line Similarity Ratio: 0.93
 Considering these two lines to be identical.
 < start time: 2017-07-21 12:27:44(UTC)
-> start time: 2017-07-26 12:37:32(UTC)
-Line Similarity Ratio: 0.94
+> start time: 2017-07-26 15:24:08(UTC)
+Line Similarity Ratio: 0.91
 Considering these two lines to be identical.
 ---
 Modified:
 < end time: 2017-07-21 12:27:45(UTC)
-> end time: 2017-07-26 12:37:33(UTC)
-Line Similarity Ratio: 0.93
+> end time: 2017-07-26 15:24:08(UTC)
+Line Similarity Ratio: 0.91
 Considering these two lines to be identical.
 ---
 Rows Similarity Ratio: 1.00
@@ -66,12 +66,12 @@ EXPECTED-TEXT-FILE: test-course/test/correct/textbook/01_notebook/01_notebook-ce
 ACTUAL-TEXT-FILE: test-course/test/result/textbook/01_notebook/01_notebook-cell002.log
 Modified:
 < path: /home/ksasaki11b819/textbook/.log/20170721/20170721-122738-0923.log
-> path: /home/ksasaki11b819/textbook/.log/20170726/20170726-123726-0889.log
+> path: /home/ksasaki11b819/textbook/.log/20170726/20170726-152402-0489.log
 Line Similarity Ratio: 0.93
 Considering these two lines to be identical.
 < start time: 2017-07-21 12:27:38(UTC)
-> start time: 2017-07-26 12:37:26(UTC)
-Line Similarity Ratio: 0.94
+> start time: 2017-07-26 15:24:02(UTC)
+Line Similarity Ratio: 0.91
 Considering these two lines to be identical.
 ---
 Modified:
@@ -83,8 +83,8 @@ Modified:
 ---
 Modified:
 < end time: 2017-07-21 12:27:39(UTC)
-> end time: 2017-07-26 12:37:27(UTC)
-Line Similarity Ratio: 0.93
+> end time: 2017-07-26 15:24:02(UTC)
+Line Similarity Ratio: 0.91
 Considering these two lines to be identical.
 ---
 Rows Similarity Ratio: 0.80
@@ -95,18 +95,18 @@ EXPECTED-TEXT-FILE: test-course/test/correct/textbook/01_notebook/01_notebook-ce
 ACTUAL-TEXT-FILE: test-course/test/result/textbook/01_notebook/01_notebook-cell001.log
 Modified:
 < path: /home/ksasaki11b819/textbook/.log/20170721/20170721-122738-0673.log
-> path: /home/ksasaki11b819/textbook/.log/20170726/20170726-123726-0627.log
-Line Similarity Ratio: 0.94
+> path: /home/ksasaki11b819/textbook/.log/20170726/20170726-152402-0224.log
+Line Similarity Ratio: 0.91
 Considering these two lines to be identical.
 < start time: 2017-07-21 12:27:38(UTC)
-> start time: 2017-07-26 12:37:26(UTC)
-Line Similarity Ratio: 0.94
+> start time: 2017-07-26 15:24:02(UTC)
+Line Similarity Ratio: 0.91
 Considering these two lines to be identical.
 ---
 Modified:
 < end time: 2017-07-21 12:27:38(UTC)
-> end time: 2017-07-26 12:37:26(UTC)
-Line Similarity Ratio: 0.93
+> end time: 2017-07-26 15:24:02(UTC)
+Line Similarity Ratio: 0.91
 Considering these two lines to be identical.
 ---
 Rows Similarity Ratio: 1.00
@@ -116,11 +116,11 @@ EXPECTED-TEXT-FILE: test-course/test/correct/additional/additional-sample-1/addi
 ACTUAL-TEXT-FILE: test-course/test/result/additional/additional-sample-1/additional-sample-1-cell001.log
 Modified:
 < path: /home/ksasaki11b819/additional/.log/20170721/20170721-122751-0432.log
-> path: /home/ksasaki11b819/additional/.log/20170726/20170726-123739-0500.log
+> path: /home/ksasaki11b819/additional/.log/20170726/20170726-152415-0058.log
 Line Similarity Ratio: 0.93
 Considering these two lines to be identical.
 < start time: 2017-07-21 12:27:51(UTC)
-> start time: 2017-07-26 12:37:39(UTC)
+> start time: 2017-07-26 15:24:14(UTC)
 Line Similarity Ratio: 0.94
 Considering these two lines to be identical.
 ---
@@ -132,7 +132,7 @@ Considering these two lines to be identical.
 ---
 Modified:
 < ksasaki+    15    14  0 Jul20 ?        00:00:58 /opt/conda/bin/python /opt/conda
-> ksasaki+    15    14  0 Jul20 ?        00:05:33 /opt/conda/bin/python /opt/conda
+> ksasaki+    15    14  0 Jul20 ?        00:05:39 /opt/conda/bin/python /opt/conda
 Line Similarity Ratio: 0.95
 Considering these two lines to be identical.
 ---
@@ -157,7 +157,7 @@ Modified:
 ---
 Modified:
 < end time: 2017-07-21 12:27:51(UTC)
-> end time: 2017-07-26 12:37:39(UTC)
+> end time: 2017-07-26 15:24:15(UTC)
 Line Similarity Ratio: 0.93
 Considering these two lines to be identical.
 ---
